@@ -1,0 +1,80 @@
+{
+ "name": "2017 mar a lago presidental golf",
+ "children": [
+  {
+    "name": "department of defense",
+    "children": [
+      {"name": "Air mobility Command",
+        "children": [
+          {"name": "operational costs", "size": 3202000}
+        ]
+      },
+      {"name": "89th Air Wing",
+        "children": [
+          {"name": "operational costs", "size": 4239000},
+          {"name": "temporary duty costs", "size": 131000}
+        ]
+      },
+      {"name": "US Marine Corps",
+        "children": [
+          {"name": "operational costs", "size": 24000},
+          {"name": "temporary duty costs", "size": 206000}
+        ]
+      },
+      {"name": "Military working dog program",
+        "children": [
+          {"name": "temporary duty costs", "size": 124000}
+        ]
+      },
+      {"name": "Explosive ordinance disposal",
+        "children": [
+          {"name": "temporary duty costs", "size": 239000}
+        ]
+      },
+      {"name": "White House Military Office",
+        "children": [
+          {"name": "operational costs", "size": 35000},
+          {"name": "temporary duty costs", "size": 269000}
+        ]
+      }
+   ]
+  },
+  {
+   "name": "department of homeland security",
+   "children": [
+      {"name": "US Secret Service",
+        "children": [
+          {"name": "operational costs", "size": 94000},
+          {"name": "temporary duty costs", "size": 1549000}
+        ]
+      },
+      {"name": "US Coast Guard",
+        "children": [
+          {"name": "operational costs", "size": 2956000},
+          {"name": "temporary duty costs", "size": 467000}
+        ]
+      },
+      {"name": "Secretary of DHS",
+        "children": [
+          {"name": "temporary duty costs", "size": 6000}
+        ]
+      }
+    ]
+  },
+  {
+   "name": "other agency travel",
+   "children": [
+      {"name": "Department of Justice",
+        "children": [
+          {"name": "travel", "size": 18000}
+        ]
+      },
+      {"name": "Department of State",
+        "children": [
+          {"name": "interpreter support, Japan", "size": 10000}
+        ]
+      }
+   ]
+  }
+ ]
+}
