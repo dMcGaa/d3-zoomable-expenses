@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "choo": "^6.13.3",
     "choo-devtools": "^2.5.1",
     "d3": "^4.13.0",
